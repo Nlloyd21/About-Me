@@ -1,0 +1,14 @@
+p, li, img, h2 {
+    border: 2px solid red;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main_img {
+    width: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
