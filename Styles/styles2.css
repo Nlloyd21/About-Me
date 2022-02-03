@@ -1,3 +1,4 @@
+
 p, li, img, h2 {
     border: 2px solid red;
 }
@@ -6,9 +7,23 @@ h2 {
     text-align: center;
 }
 
-.main_img {
+#container {
     width: 300px;
-    text-align: center;
-    margin: 0 auto;
+    margin:auto
 }
 
+body {
+    background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Rock Salt';
+}
+h2:hover {
+    background-color: gold;
+}
+p {
+    padding-left: 60px;
+}
